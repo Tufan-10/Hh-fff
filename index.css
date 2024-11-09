@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&amp;display=swap");
 
 :root {
-  --background-image: url('../img.freepik.com/free-vector/halftone-background-with-dots_23-2148907692.jpg');
+  --background-image: url('halftone-background-with-dots_23-2148907692.jpg');
   --primary-bg: rgba(10, 10, 10, 0.7);
   --cta-bg: #1a1a1a;
   --cta-bg-highlight: #00BFFF; /* Bright blue for button highlight */
